@@ -1,2 +1,4 @@
 ~ tee
 ~ coffee
+~ water
+~ green tea
